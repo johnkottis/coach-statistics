@@ -1,1 +1,50 @@
 
+[{
+    "id": 1,
+    "personal": {
+        "img": "https://media-exp1.licdn.com/dms/image/D5603AQG-lD3BJDI9ug/profile-displayphoto-shrink_800_800/0/1636025295171?e=2147483647&v=beta&t=UnfItNQMi3fnhVbQV80r72m8DDwQiMlAs2GzTMaK5wg",
+        "firstName": "John",
+        "lastName": "Kottis",
+        "country": "Greece",
+        "bornIn": "Athens",
+        "nationality": ["Greek", "British"]
+    },
+    "career": [{
+            "season": "2018/2019",
+            "competition": "London Metropolitan League - Division 2",
+            "organisation": "London Metropolitan League",
+            "team": "Spartan Cox BC"
+        },
+        {
+            "season": "2018/2019",
+            "competition": "LABL - Division 2",
+            "organisation": "LABL",
+            "team": "Southside Titans"
+        }, {
+            "season": "2019/2020",
+            "competition": "London Basketball Nation League",
+            "organisation": "LBN",
+            "team": "Spartan Cox BC"
+        }, {
+            "season": "2019/2020",
+            "competition": "London Basketball Nation League",
+            "organisation": "LBN",
+            "team": "Southside Titans"
+        }, {
+            "season": "2021/2022",
+            "competition": "London Basketball League",
+            "organisation": "self-organised",
+            "team": "Spartan Cox BC"
+        }, {
+            "season": "2021/2022",
+            "competition": "LABL - Division 2",
+            "organisation": "LABL",
+            "team": "Enfield Bears"
+        }, {
+            "season": "2021/2022",
+            "competition": "LABL - Cup",
+            "organisation": "LABL",
+            "team": "Enfield Bears"
+        }
+    ]
+}]
