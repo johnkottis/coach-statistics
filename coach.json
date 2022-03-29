@@ -12,38 +12,45 @@
             "season": "2018/2019",
             "competition": "London Metropolitan League - Division 2",
             "organisation": "London Metropolitan League",
-            "team": "Spartan Cox BC"
+            "team": "Spartan Cox BC",
+            "ranking":""
         },
         {
             "season": "2018/2019",
             "competition": "LABL - Division 2",
             "organisation": "LABL",
-            "team": "Southside Titans"
+            "team": "Southside Titans",
+            "ranking":""
         }, {
             "season": "2019/2020",
             "competition": "London Basketball Nation League",
             "organisation": "LBN",
-            "team": "Spartan Cox BC"
+            "team": "Spartan Cox BC",
+            "ranking":""
         }, {
             "season": "2019/2020",
             "competition": "London Basketball Nation League",
             "organisation": "LBN",
-            "team": "Southside Titans"
+            "team": "Southside Titans",
+            "ranking":""
         }, {
             "season": "2021/2022",
             "competition": "London Basketball League",
             "organisation": "self-organised",
-            "team": "Spartan Cox BC"
+            "team": "Spartan Cox BC",
+            "ranking":""
         }, {
             "season": "2021/2022",
             "competition": "LABL - Division 2",
             "organisation": "LABL",
-            "team": "Enfield Bears"
+            "team": "Enfield Bears",
+            "ranking":""
         }, {
             "season": "2021/2022",
             "competition": "LABL - Cup",
             "organisation": "LABL",
-            "team": "Enfield Bears"
+            "team": "Enfield Bears",
+            "ranking":""
         }
     ]
 }]
