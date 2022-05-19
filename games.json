@@ -37,5 +37,19 @@
     "competition": "LABL - Division 2",
     "fixture": ["Enfield Bears", "Middlesex University"],
     "result": [77, 83]
+  },
+ {
+    "season": "2021/2022",
+    "date": "05/05/2022",
+    "competition": "GoMammoth - Elephant & Castle | Spring",
+    "fixture": ["Swish Swish", "	Cockneys BC"],
+    "result": [45, 43]
+  },
+ {
+    "season": "2021/2022",
+    "date": "12/05/2022",
+    "competition": "GoMammoth - Elephant & Castle | Spring",
+    "fixture": ["Ladywell Losers", "Cockneys BC"],
+    "result": [28, 36]
   }
 ]
